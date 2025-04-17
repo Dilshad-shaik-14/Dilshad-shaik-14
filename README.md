@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning  full stack development
 - 💞️ I’m looking to collaborate on full stack projects
 - 📫 How to reach me dilshadshaik467@gmail.com
-- 😄 Pronouns: she
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
 <!---
